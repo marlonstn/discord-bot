@@ -1,0 +1,4 @@
+#arquivos que não serão enviados 
+package.json
+package-lock.json
+node_modules
